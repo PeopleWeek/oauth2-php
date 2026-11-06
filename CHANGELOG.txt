@@ -1,3 +1,9 @@
+oauth2-php revision 1.3.x-dev, 2026-11-06 (development version)
+----------------------
+* support Symfony HttpFoundation 6.4 and 7.4.
+* mark the development branch as the security-fixed 1.3 line.
+* retain exact redirect-domain and port validation for authorization clients.
+
 oauth2-php revision xxx, xxxx-xx-xx (development version)
 ----------------------
 
